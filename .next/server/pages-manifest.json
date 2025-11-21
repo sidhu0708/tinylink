@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/_debug_env": "pages/api/_debug_env.js",
+  "/": "pages/index.js",
+  "/api/links/[code]": "pages/api/links/[code].js",
+  "/[code]": "pages/[code].js",
+  "/api/links": "pages/api/links.js"
+}
