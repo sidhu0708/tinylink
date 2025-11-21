@@ -1,4 +1,3 @@
-// pages/[code].js
 import { query } from "../lib/db";
 
 export async function getServerSideProps({ params, res }) {
